@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="main_screen_content_padding">16dp</dimen>
+    <dimen name="car_view_marginStartEnd">5dp</dimen>
+    <dimen name="car_view_marginTop">16dp</dimen>
+    <dimen name="car_view_corner_radius">8dp</dimen>
+    <dimen name="car_view_elevation">5dp</dimen>
+    <dimen name="car_view_content_padding">10dp</dimen>
+    <dimen name="indentification_image_size">50dp</dimen>
+    <dimen name="indentification_image_marginEnd">10dp</dimen>
+    <dimen name="label_text_size">18sp</dimen>
+    <dimen name="value_text_size">16sp</dimen>
+    <dimen name="sunset_marginStart">10dp</dimen>
+    <dimen name="sunrise_marginEnd">10dp</dimen>
+    <dimen name="divider_height">16dp</dimen>
+    <dimen name="divider_margin">16dp</dimen>
+</resources>
